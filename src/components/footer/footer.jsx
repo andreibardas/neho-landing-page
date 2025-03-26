@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Footer = () => {
     return (
         <footer className="container-fluid bg-transparent footer-container">
-            <div className="d-flex justify-content-between align-items-center flex-wrap">
+            <div className="d-flex justify-content-between align-items-center flex-wrap-reverse mt-1">
                 <div className="d-flex gap-3">
                     <a href="https://facebook.com" target="_blank"><i style={{fontSize: "32px"}} className="bi bi-facebook text-dark"></i></a>
                     <a href="https://instagram.com" target="_blank"><i style={{fontSize: "32px"}} className="bi bi-instagram text-dark"></i></a>
