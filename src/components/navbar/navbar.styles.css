@@ -1,0 +1,12 @@
+.navbar-button {
+
+}
+
+.navbar-toggler.navbar-toggler {
+    border: 0px;
+    box-shadow: none !important;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}

@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Landing Page created with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Requirements
+- node v22.11.0 or higher
+- npm v10.9.0 or higher
+
+## Run it locally
+1. npm install
+2. npm start
 
 ## Available Scripts
 
